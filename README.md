@@ -3,8 +3,11 @@
 ## About:
 It was made as simple and clear as possible without superfluous. So that everyone can understand how it works!
 
-**Example code to enable and disable phone flashlight**
-```c
+## DEMO:
+Video Soon!
+
+**Example code to enable and disable phone flashlight:**
+```python
 import os
 
 def flashlight_on():
