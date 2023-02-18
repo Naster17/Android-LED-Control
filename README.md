@@ -18,3 +18,4 @@ def flashlight_off():
     os.popen("echo 0 > /sys/class/leds/flashlight/brightness")
     
 ```
+**Default method required ROOT**
