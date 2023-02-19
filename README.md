@@ -18,7 +18,7 @@ def flashlight_off():
 ```
 
 ## DEMO:
-![disco](https://user-images.githubusercontent.com/62520991/219944095-9db8b4f8-404c-45c9-8462-24944408894c.gif)
+![disco](https://user-images.githubusercontent.com/62520991/219944210-a9112467-1b03-4240-8ea4-745d5b1d6909.gif)
 
 
 **Default method required ROOT**
